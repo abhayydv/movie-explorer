@@ -17,7 +17,7 @@ A simple and clean React application to explore your favorite movies using the [
 
 ## Demo
 
-Check out the live version here: **[Live on Vercel](YOUR_LIVE_LINK_HERE)**
+Check out the live version here: **[Live on Vercel]([YOUR_LIVE_LINK_HERE](https://movie-explorer-git-main-abhay-kumars-projects-519a8d1a.vercel.app/))**
 
 ---
 
