@@ -19,6 +19,6 @@ function SearchBar({ onSearch }) {
       <button type="submit">Search</button>
     </form>
   );
-}
+};
 
 export default SearchBar;
