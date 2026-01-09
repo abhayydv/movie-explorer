@@ -1,4 +1,4 @@
-# Movie Explorer App 🎬
+# Movie Explorer App 
 
 A simple and clean React application to explore your favorite movies using the [OMDb API](http://www.omdbapi.com/). Search for movies and view their poster and release year.  
 
@@ -17,7 +17,7 @@ A simple and clean React application to explore your favorite movies using the [
 
 ## Demo
 
-Check out the live version here: **[Live on Vercel]([YOUR_LIVE_LINK_HERE](https://movie-explorer-git-main-abhay-kumars-projects-519a8d1a.vercel.app/))**
+Check out the live version here: **[Live on Vercel]([(https://movie-explorer-zeta-five.vercel.app/)](https://movie-explorer-git-main-abhay-kumars-projects-519a8d1a.vercel.app/))**
 
 ---
 
