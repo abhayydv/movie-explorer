@@ -10,6 +10,6 @@ function MovieCard({ movie }) {
       <span className="type">{movie.Type.toUpperCase()}</span>
     </div>
   );
-}
+};
 
 export default MovieCard;
