@@ -18,6 +18,7 @@ A simple and clean React application to explore your favorite movies using the [
 ## Demo
 
 Check out the live version here: **[Live on Vercel]([(https://movie-explorer-zeta-five.vercel.app/)])**
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://your-live-link.com)
 
 ---
 
