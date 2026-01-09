@@ -16,14 +16,14 @@ function App() {
 
   return (
     <div className="app" >
-      <h1>MOVIE EXPLORER 🎬</h1>
+      <h1>MOVIE EXPLORER </h1>
       <SearchBar onSearch={fetchMovies} />
 
       <div className="movie-list">
         {movies.length > 0 ? (
           movies.map((m) => <MovieCard key={m.imdbID} movie={m} />)
         ) : (
-          <p className="no-movies">Search for movies above 👆</p>
+          <p className="no-movies">search for movies above</p>
         )}
       </div>
     </div>
